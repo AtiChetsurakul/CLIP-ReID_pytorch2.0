@@ -68,9 +68,12 @@ TEST:
   FEAT_NORM: 'yes'
 
 DATASETS:
-#   NAMES: ('market1501')
-#   ROOT_DIR: ('')
-# OUTPUT_DIR: ''
+   NAMES: ('market1501')
+   ROOT_DIR: ('/home/ati/Desktop/Dataset/data')
+
+
+OUTPUT_DIR: 'log'
+
 
 #   NAMES: ('dukemtmc')
 #   ROOT_DIR: ('')
